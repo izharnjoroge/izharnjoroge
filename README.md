@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @izharnjoroge
-- 👀 I’m interested in application development using flutter.
-- 🌱 I’m currently learning dart and javascript.
+- 👀 I’m profecient in application development using flutter.
+- 🌱 I’m also profecient in web development using React with TypeScript.
 - 💞️ I’m looking to collaborate on any flutter dev project.
 - 📫 Reach me at izharnjoroge@gmail.com
 
